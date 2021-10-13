@@ -26,14 +26,14 @@ public class HomeWorkApp {
     }
 
     public static void printColor(){
-        int color = 100;
+        int color = 300;
         if (color < 0){
             System.out.println("Красный");
         }
-        if (color >= 0 && color <= 100){
+        else if (color >= 0 && color <= 100){
             System.out.println("Желтый");
         }
-        if (color > 100){
+        else if (color > 100){
             System.out.println("Зеленый");
         }
     }
@@ -44,7 +44,7 @@ public class HomeWorkApp {
         if (a >= b){
             System.out.println("а больше(>) или равно(=) b");
         }
-        if (a < b){
+        else {
             System.out.println("а меньше(<) b");
         }
     }
