@@ -2,7 +2,6 @@ package ru.as.homeworks.lesson2;
 
 public class HomeWorkTwo {
     public static void main(String[] args) {
-
     }
 
     public static boolean checkInterval(int numberOne, int numberTwo){
