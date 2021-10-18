@@ -1,7 +1,5 @@
 package ru.as.homeworks.lesson2;
 
-
-
 public class HomeWorkTwo {
     public static void main(String[] args) {
 
