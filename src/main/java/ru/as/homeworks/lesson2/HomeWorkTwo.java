@@ -16,8 +16,8 @@ public class HomeWorkTwo {
         } else System.out.println("Число отрицательное");
     }
 
-    public static boolean checkPositiveBoolean(int digital){
-        return (digital>=0);
+    public static boolean checkPositiveBoolean(int number){
+        return (number>=0);
     }
 
     public static void printSentence(String sentence, int amount){
