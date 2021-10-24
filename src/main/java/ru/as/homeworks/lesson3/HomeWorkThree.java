@@ -2,7 +2,6 @@ package ru.as.homeworks.lesson3;
 
 public class HomeWorkThree {
     public static void main(String[] args) {
-        System.out.println(checkBalance(new int[]{2, 2, 2, 2, 10}));
     }
 
     //Задание №1
