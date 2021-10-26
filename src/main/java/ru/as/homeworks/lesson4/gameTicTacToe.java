@@ -2,7 +2,7 @@ package ru.as.homeworks.lesson4;
 
 import java.util.Random;
 import java.util.Scanner;
-public class gameCrossZero {
+public class gameTicTacToe {
     public static int SIZE = 3;
     public static int DOTS_TO_WIN = 3;
     public static final char DOT_EMPTY = '•';
